@@ -7,4 +7,4 @@ The process and the method is same as another repository however mine previous m
 
 Hovever the method is under development, as stochastic with multiple shooting is very rare to find when we do online research.  But, let's see how I end up once the programming is complete.
 
-So, it is better as of now not try to learn from this code.
+The stochastic programming is completed using MOO approach using numerical solution method called multiple shooting.
